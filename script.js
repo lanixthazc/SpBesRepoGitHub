@@ -1,1 +1,3 @@
-echo "Ejemplo GitHub Script"
+echo "Ejemplo GitHub Script" KKSHSJ
+
+console.log ( "Ejemplo GitHub Script")
